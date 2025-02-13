@@ -79,11 +79,7 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanshrestha04/nishanshrestha04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanshrestha04/nishanshrestha04/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+
 
 
 ###
@@ -112,6 +108,14 @@ Let’s connect and grow together on this exciting journey! 🚀
 <div align="center">
   <img src="https://profile-counter.glitch.me/nishanshrestha04/count.svg?"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanshrestha04/nishanshrestha04/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanshrestha04/nishanshrestha04/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 ###
 
