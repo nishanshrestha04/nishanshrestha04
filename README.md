@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋, I'm Nishan - A Passionate Full Stack Developer, form Nepal.</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishan+Shrestha;AI+Enthusiast+%7C+Passionate+Developer+%7C+Chill+Guy" alt="Typing SVG" /></a>
+</p>
 
 ###
 
