@@ -113,9 +113,6 @@ Let’s connect and grow together on this exciting journey! 🚀
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nishanshrestha04/count.svg?"  />
-</div>
 
 ###
 
@@ -134,13 +131,3 @@ Let’s connect and grow together on this exciting journey! 🚀
   <img height="200" src="https://media.giphy.com/media/wMiDz4buM4phwKrqSf/giphy.gif?cid=790b7611tidvenjyg5biyavfksxxcgbvrejon3141u3vkgu1&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nishanshrestha04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=nishanshrestha04&icon=0&color=0)](https://visitcount.itsvg.in)
-###
