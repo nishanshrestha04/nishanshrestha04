@@ -1,12 +1,18 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishan+Shrestha;AI+Enthusiast+%7C+Passionate+Developer+%7C+Chill+Guy" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishan+Shrestha;AI+Enthusiast+%7C+Passionate+Developer+%7C" alt="Typing SVG" /></a>
 </p>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanshrestha04&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishanshrestha04&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px; color: white;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanshrestha04&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="350"/>
+  
+  <a href="https://git.io/streak-stats" style="text-decoration: none; outline: none; color: white;">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=nishanshrestha04&theme=shadow_red&hide_border=false&card_width=350" alt="GitHub Streak"/>
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanshrestha04&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" width="350"/>
+
 </div>
 
 ###
